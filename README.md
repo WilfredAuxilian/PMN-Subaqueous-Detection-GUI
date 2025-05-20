@@ -1,4 +1,4 @@
-![SRM Logo](Logo_For_GUI.png)
+![NIOT Logo](niotlogo.jpeg)
 # *PMN-Subaqueous-Detection-GUI*![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)
 
 PMN-Subaqueous-Detection-GUI is a Python-based graphical user interface (GUI) application for underwater multi-object detection, designed to analyze images, videos, and real-time camera feeds for marine entities such as polymetallic nodules (PMN) mainly and fish, coral, algae, reefs etc. It integrates advanced computer vision models, including YOLO, Haar Cascade, and Faster R-CNN, with a Tkinter-based interface. 
