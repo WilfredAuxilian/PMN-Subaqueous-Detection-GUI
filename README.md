@@ -5,5 +5,5 @@ PMN-Subaqueous-Detection-GUI is a Python-based graphical user interface (GUI) ap
 
 
 
-License
+**License**
 This project is licensed under a proprietary license. No usage, modification, or distribution is permitted without prior written consent from Wilfred Auxilian. See the LICENSE.md file for details. Contact Wilfred Auxilian at wilfredaux@gmail.com to request permission.
