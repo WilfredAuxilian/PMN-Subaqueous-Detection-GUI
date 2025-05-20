@@ -1,6 +1,6 @@
 PMN-Subaqueous-Detection-GUI Proprietary License
 
-Copyright (c) 2025 Wilfred Auxilian
+Copyright (c) 2025 WilfredAuxilian
 
 All rights reserved.
 
